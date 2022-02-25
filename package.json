@@ -1,6 +1,6 @@
 {
-  "name": "react-semantic-ui-datepickers",
-  "version": "0.0.0-development",
+  "name": "@kmoutzou/react-semantic-ui-datepickers",
+  "version": "0.0.1",
   "description": "Datepickers built with Semantic UI for React and Dayzed",
   "main": "dist/index.js",
   "module": "dist/react-semantic-ui-datepickers.esm.js",
